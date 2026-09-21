@@ -1,0 +1,3 @@
+# Rename this file to .env and put your own keys in it
+
+DASHSCOPE_API_KEY=sk-your-dashscope-key
